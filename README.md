@@ -5,6 +5,7 @@
 [![Twitter: YossiEliaz](https://img.shields.io/twitter/follow/YossiEliaz?style=social)](https://twitter.com/YossiEliaz)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google&logoColor=white)](https://scholar.google.com/citations?user=NL1ZyOgAAAAJ&hl=en)
 [![Watch on Twitch](https://img.shields.io/twitch/status/messingup123?style=social)](https://twitch.tv/messingup123)
+[![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/@yossieliaz5943?style=social)](https://youtube.com/@yossieliaz5943)
 
 🚀 **Computational Scientist and Educator**
 
