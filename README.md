@@ -6,6 +6,7 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google&logoColor=white)](https://scholar.google.com/citations?user=NL1ZyOgAAAAJ&hl=en)
 [![Watch on Twitch](https://img.shields.io/twitch/status/messingup123?style=social)](https://twitch.tv/messingup123)
 [![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCkm7FnFBfaKUNKQBLF7TDOQ?style=social)](https://youtube.com/channel/UCkm7FnFBfaKUNKQBLF7TDOQ)
+[Join my Discord](https://discord.gg/nTMV3ymjwH)
 
 🚀 **Computational Scientist and Educator**
 
