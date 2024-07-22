@@ -30,4 +30,9 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zozo123&mode=weekly)
+
+<div align="right">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zozo123&mode=weekly&card_width=400&card_height=150" alt="GitHub Streak" />
+  </a>
+</div>
