@@ -1,4 +1,4 @@
-# Yossi Eliaz 🌟
+# [Yossi Eliaz 🌟](https://github.com/zozo123)
 
 ### [Visit my Personal Website](https://yossieliaz.netlify.app/) 🌐
 
