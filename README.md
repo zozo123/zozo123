@@ -1,5 +1,6 @@
-# [Yossi Eliaz 🌟](https://yossieliaz.netlify.app/)
+# Yossi Eliaz 🌟
 
+### [Visit my Personal Website](https://yossieliaz.netlify.app/) 🌐
 
 [![Explore on GitHub](https://img.shields.io/badge/-Explore%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zozo123) 
 [![Connect via LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossi-eliaz)
