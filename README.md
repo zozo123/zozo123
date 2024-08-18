@@ -1,4 +1,4 @@
-# Yossi Eliaz 🌟
+# [Yossi Eliaz 🌟](https://yossieliaz.netlify.app/)
 
 
 [![Explore on GitHub](https://img.shields.io/badge/-Explore%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zozo123) 
