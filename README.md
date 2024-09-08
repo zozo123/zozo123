@@ -20,10 +20,7 @@
 
 👨‍🏫 **Mentoring**: Fostering Future Tech Leaders
 
-🏅 **Awards**: Recognized in Scientific & Tech Communities
-
-
-✍️ **Planner Templates for You:**
+✍️ **Planner Templates I Find Useful:**
 - 📅 [10-Week Daily Planner](https://drive.google.com/file/d/1YEM3lrmuoIExAOsH6ys8d07lsIMGpUhY/view?usp=drive_link): Organize your days for 10 weeks, keeping tasks on point.
 - 🗓️ [Weekly Planner](https://drive.google.com/file/d/1wbC2p3pvxCm4HDWSmY27Zm1AdpXRrufT/view?usp=drive_link): Set weekly goals and events with a clear layout.
 - 📘 [3Q Planner](https://drive.google.com/file/d/17J5xEN3MGUZTKGpFQpfe_d44JKEkZplI/view?usp=drive_link): A comprehensive planner to outline and track your quarterly goals, tasks, and progress.
