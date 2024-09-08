@@ -18,7 +18,7 @@
 - **Roles**: Innovator, Advisor, Tech Visionary 🛠️🧠
 - **Impact**: Genomics & Tech Landscape 🌐
 
-👨‍🏫 **Mentoring**: Fostering Future Tech Leaders
+👨‍🏫 **Mentoring**: Training Future Tech Leaders (web2, web3, and AI stacks)
 
 ✍️ **Planner Templates I Find Useful:**
 - 📅 [10-Week Daily Planner](https://drive.google.com/file/d/1YEM3lrmuoIExAOsH6ys8d07lsIMGpUhY/view?usp=drive_link): Organize your days for 10 weeks, keeping tasks on point.
