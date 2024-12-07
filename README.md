@@ -1,23 +1,26 @@
 # [Yossi Eliaz 🌟](https://github.com/zozo123)
 
 ### [Visit My Personal Website](https://yossieliaz.netlify.app/) 🌐
-
-[![Explore on GitHub](https://img.shields.io/badge/-Explore%20on%20GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/zozo123) 
-[![Connect via LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yossi-eliaz)
-[![Twitter: YossiEliaz](https://img.shields.io/twitter/follow/YossiEliaz?style=social)](https://twitter.com/YossiEliaz)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google&logoColor=white)](https://scholar.google.com/citations?user=NL1ZyOgAAAAJ&hl=en)
-[![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCkm7FnFBfaKUNKQBLF7TDOQ?style=social)](https://youtube.com/channel/UCkm7FnFBfaKUNKQBLF7TDOQ)
 <div align="center">
   <div id="header">
-    <img src="https://media.giphy.com/media/9zXG9hZsLAa3x4xEaV/giphy.gif" width="260"/>
+    <img src="https://media.giphy.com/media/9zXG9hZsLAa3x4xEaV/giphy.gif" width="260" alt="Profile Gif"/>
   </div>
- </br>
+  </br>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/yossi-eliaz/">
+    <a href="https://github.com/zozo123" target="_blank">
+      <img src="https://img.shields.io/badge/-Explore%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    </a>
+    <a href="https://scholar.google.com/citations?user=NL1ZyOgAAAAJ&hl=en" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+    </a>
+    <a href="https://youtube.com/channel/UCkm7FnFBfaKUNKQBLF7TDOQ" target="_blank">
+      <img src="https://img.shields.io/youtube/channel/subscribers/UCkm7FnFBfaKUNKQBLF7TDOQ?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="YouTube Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/yossi-eliaz/" target="_blank">
       <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/YossiEliaz">
-      <img src="https://img.shields.io/twitter/follow/YossiEliaz?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Badge"/>
+    <a href="https://twitter.com/YossiEliaz" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/YossiEliaz?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge"/>
     </a>
   </div>
 </div>
