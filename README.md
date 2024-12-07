@@ -52,7 +52,11 @@
   </a>
   <br/>
   <a href="https://github.com/zozo123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zozo123&count_private=true&layout=compact&theme=dark" alt="Top Languages Used" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zozo123&layout=compact&theme=dark" alt="Top Languages Used" />
+  </a>
+  <br/>
+  <a href="https://github.com/zozo123">
+    <img src="https://github-readme-stats.vercel.app/api?username=zozo123&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
 </div>
 
@@ -63,4 +67,3 @@
 - 🗓️ [Weekly Planner](https://drive.google.com/file/d/1wbC2p3pvxCm4HDWSmY27Zm1AdpXRrufT/view?usp=drive_link): Set weekly goals and events with a clear layout.
 - 📘 [3Q Planner](https://drive.google.com/file/d/17J5xEN3MGUZTKGpFQpfe_d44JKEkZplI/view?usp=drive_link): A comprehensive planner to outline and track your quarterly goals, tasks, and progress.
 - 📝 [4D TODO List](https://drive.google.com/file/d/104GAcuFoFXtbVUK1JUHsZSSJ-IbQHwuN/view?usp=drive_link): Incorporate dimensions of Personal Development, Work or Career, Relationships, and Leisure into your planning.
-
