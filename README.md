@@ -22,9 +22,6 @@
       <img src="https://img.shields.io/twitter/follow/YossiEliaz?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Badge"/>
     </a>
   </div>
-
-  <h1>Welcome to My GitHub! 👋</h1>
-  <h3>Hi, I'm <b>Yossi Eliaz</b> — a computational scientist, educator, and innovator 🌟.</h3>
 </div>
 
 ---
