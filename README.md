@@ -1,6 +1,7 @@
 # [Yossi Eliaz 🌟](https://github.com/zozo123)
 
 ### [Visit My Personal Website](https://yossieliaz.netlify.app/) 🌐
+
 <div align="center">
   <div id="header">
     <img src="https://media.giphy.com/media/9zXG9hZsLAa3x4xEaV/giphy.gif" width="260" alt="Profile Gif"/>
@@ -19,13 +20,13 @@
     <a href="https://www.linkedin.com/in/yossi-eliaz/" target="_blank">
       <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://twitter.com/YossiEliaz" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/YossiEliaz?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge"/>
+    <a href="https://x.com/YossiEliaz" target="_blank">
+      <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter) Badge"/>
     </a>
   </div>
 </div>
 
----
+------------------ 
 
 🚀 **Computational Scientist and Educator**
 
