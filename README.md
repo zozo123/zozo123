@@ -12,7 +12,7 @@
 
 <div align="center">
   <div id="header">
-    <img src="https://media.giphy.com/media/9zXG9hZsLAa3x4xEaV/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/9zXG9hZsLAa3x4xEaV/giphy.gif" width="260"/>
   </div>
 
   <div id="badges">
@@ -49,14 +49,6 @@
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=zozo123&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-  <br/>
-  <a href="https://github.com/zozo123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zozo123&layout=compact&count_private=true&theme=dark" alt="Top Languages Used" />
-  </a>
-  <br/>
-  <a href="https://github.com/zozo123">
-    <img src="https://github-readme-stats.vercel.app/api?username=zozo123&include_all_commits=true&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
   </a>
 </div>
 
