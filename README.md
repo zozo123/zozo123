@@ -26,13 +26,13 @@
   </div>
 </div>
 
------------------- 
+---
 
 🚀 **Computational Scientist and Educator**
 
 - **PhD Physics**: Genomics & AI 🧬💻
 - **Expertise**: Python, ML, Algorithms, OS Internals, Bioinformatics 🔍
-- **Roles**: Innovator, Advisor, Tech Visionary 🛠️🧠
+- **Roles**: Researcher, Builder, Advisor, Systems Architect 🛠️🧠
 - **Impact**: Genomics & Tech Landscape 🌐
 
 👨‍🏫 **Mentoring**: Training Future Tech Leaders (Web2, Web3, and AI stacks)
