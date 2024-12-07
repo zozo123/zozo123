@@ -9,18 +9,14 @@
 [![Watch on Twitch](https://img.shields.io/twitch/status/messingup123?style=social)](https://twitch.tv/messingup123)
 [![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCkm7FnFBfaKUNKQBLF7TDOQ?style=social)](https://youtube.com/channel/UCkm7FnFBfaKUNKQBLF7TDOQ)
 [![Join on Discord](https://img.shields.io/badge/Discord-zozo123-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/nTMV3ymjwH)
-
 <div align="center">
   <div id="header">
     <img src="https://media.giphy.com/media/9zXG9hZsLAa3x4xEaV/giphy.gif" width="260"/>
   </div>
-
+ </br>
   <div id="badges">
     <a href="https://www.linkedin.com/in/yossi-eliaz/">
       <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:eliaz123@gmail.com">
-      <img src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
     <a href="https://twitter.com/YossiEliaz">
       <img src="https://img.shields.io/twitter/follow/YossiEliaz?style=for-the-badge&logo=twitter&color=1DA1F2" alt="Twitter Badge"/>
