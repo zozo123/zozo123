@@ -52,7 +52,7 @@
   </a>
   <br/>
   <a href="https://github.com/zozo123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zozo123&layout=compact&theme=dark" alt="Top Languages Used" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zozo123&count_private=true&layout=compact&theme=dark" alt="Top Languages Used" />
   </a>
   <br/>
   <a href="https://github.com/zozo123">
