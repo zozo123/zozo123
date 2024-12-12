@@ -3,10 +3,12 @@
 ### [Visit My Personal Website](https://yossieliaz.netlify.app/) 🌐
 
 <div align="center">
-  <div id="header">
-    <img src="https://media.giphy.com/media/9zXG9hZsLAa3x4xEaV/giphy.gif" width="260" alt="Profile Gif"/>
-  </div>
-  </br>
+<div id="header">
+  <a href="#" onclick="return false;">
+    <img src="https://media.giphy.com/media/9zXG9hZsLAa3x4xEaV/giphy.gif" width="360" alt="zozo123"/>
+  </a>
+</div>
+<br/>
   <div id="badges">
     <a href="https://github.com/zozo123" target="_blank">
       <img src="https://img.shields.io/badge/-Explore%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
