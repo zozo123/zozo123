@@ -41,13 +41,16 @@
 
 ---
 
-### 📈 **GitHub Stats**
+### 📈 **Stats**
 
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=zozo123&mode=weekly&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
+
+
+[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1031417&layout=compact)](https://stackoverflow.com/users/1031417/0x90)
 
 
 ---
