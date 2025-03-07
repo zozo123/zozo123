@@ -41,16 +41,18 @@
 
 ---
 
-### 📈 **Stats**
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=zozo123&mode=weekly&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+### 📈 **Stats** 
+<p align="center">
+  <a href="https://stackoverflow.com/users/1031417/0x90">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=1031417&layout=compact" alt="StackOverflow Profile" />
   </a>
-</div>
+</p>
 
-
-[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=1031417&layout=compact)](https://stackoverflow.com/users/1031417/0x90)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-six-orcin.vercel.app?user=zozo123&mode=weekly&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 ---
