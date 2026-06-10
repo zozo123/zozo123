@@ -56,6 +56,7 @@ Interactive essays, field guides and experiments — all live on GitHub Pages.
 
 | Post | TL;DR |
 |---|---|
+| 🆕 [Databases in the AI Era](https://zozo123.github.io/databases-in-the-ai-era/) | What fifty years of database systems must become when the dominant reader of data is no longer human |
 | [The Data That Taught the Machines](https://zozo123.github.io/how-stackoverflow-taught-ai/) | How Stack Overflow trained its own replacement |
 | [The Loop Is Coming Apart](https://zozo123.github.io/loop-coming-apart/) | jj, crabbox & the unbundled dev cycle — the diff is the unit of work |
 | [Intel: Vision Without Execution](https://zozo123.github.io/intel-story/) | A comic-style dive into Intel's 2000–2026 journey |
