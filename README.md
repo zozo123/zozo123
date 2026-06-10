@@ -49,7 +49,6 @@ Interactive essays, field guides and experiments — all live on GitHub Pages.
 | [Pokeloop](https://zozo123.github.io/pokeloop/) | GA over LLM policies learning Pokémon GO |
 | [unity-loop](https://zozo123.github.io/unity-loop-page/) | Vibe-coded Unity on remote sandboxes |
 | [wolfram-fb0](https://zozo123.github.io/wolfram-fb0/) | AI-written x86_64 asm + eBPF fractals straight to `/dev/fb0` |
-| [xor-fractal-fb0](https://zozo123.github.io/xor-fractal-fb0/) | Wolfram cellular automata — Rule 30/90/110 |
 | [CI Caching Is Not One Cache](https://zozo123.github.io/gha-cache-field-guide/) | A field guide to GitHub Actions cache strategy |
 
 ### 🔬 Deep Dives & Essays
@@ -68,10 +67,6 @@ Interactive essays, field guides and experiments — all live on GitHub Pages.
 |---|---|
 | [How Market Makers Print Money](https://zozo123.github.io/market-making-sandbox/) | Order books → Avellaneda–Stoikov, Glosten–Milgrom, Kyle's λ — interactive |
 | [Avellaneda–Stoikov, in a Sandbox](https://zozo123.github.io/microprice-sandbox/) | Reproducing the HFT paper in ~90s, no local Python |
-
-### 🗄️ Classics
-
-[QC-IL — Quantum Computing Intro](https://zozo123.github.io/QC-IL/) · [ZoZo's original blog](https://zozo123.github.io/)
 
 ---
 
