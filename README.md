@@ -1,6 +1,10 @@
 # [Yossi Eliaz 🌟](https://github.com/zozo123)
 
-### [Visit My Personal Website](https://yossieliaz.netlify.app/) 🌐
+### [Visit My Personal Website → zozo123.github.io](https://zozo123.github.io/) 🌐
+
+<a href="https://zozo123.github.io/">
+  <img src="https://zozo123.github.io/assets/og/shot-hero.png" alt="yossi eliaz — a living preprint: personal site with every live essay & demo" width="100%"/>
+</a>
 
 <div align="center">
   <img src="https://media.giphy.com/media/9zXG9hZsLAa3x4xEaV/giphy.gif" width="320" alt="zozo123"/>
