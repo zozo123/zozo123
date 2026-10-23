@@ -1,6 +1,6 @@
 # Yossi Eliaz
 
-**Principal Engineer · Applied Scientist · Lecturer · GTM Strategy & Partnerships**
+**Principal Engineer · AI Researcher · Lecturer · GTM Strategy & Partnerships**
 
 Build difficult systems. Make them useful.
 
