@@ -3,7 +3,7 @@
 **Principal Engineer, AI Systems · Incredibuild / islo.dev**
 
 I build infrastructure for AI agents: sandboxes, workflow orchestration, and build systems.
-PhD in Physics. Software engineering lecturer.
+PhD in Physics. Software engineering lecturer · [EASS Class X at HIT](https://eass-part-a-2026-x.github.io/lecture-notes/).
 
 ## Upstream contributions
 
