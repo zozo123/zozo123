@@ -31,4 +31,4 @@ Publications: [research index](https://yossieliaz.netlify.app/research/) · [Goo
 - [CI Caching Is Not One Cache](https://zozo123.github.io/gha-cache-field-guide/): a practical guide to GitHub Actions cache strategy.
 - [Evidence-Aware MapReduce for Forkable Compute](https://arxiv.org/abs/2607.09689): counting forked agent branches without mistaking a repeated error for consensus. Preprint, 2026.
 
-[Website](https://yossieliaz.netlify.app/) · [Writing & experiments](https://zozo123.github.io/) · [LinkedIn](https://www.linkedin.com/in/yossi-eliaz/) · [Email](mailto:eliaz123@gmail.com)
+[Website](https://yossieliaz.netlify.app/) · [Writing & experiments](https://zozo123.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=NL1ZyOgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/yossi-eliaz/) · [X](https://x.com/YossiEliaz) · [Email](mailto:eliaz123@gmail.com)
