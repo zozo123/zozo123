@@ -9,6 +9,8 @@ PhD in Physics. Software engineering lecturer.
 
 - **[Crabbox](https://crabbox.sh/) (OpenClaw)** — sandbox providers and [lifecycle support](https://github.com/openclaw/crabbox/pull/1707).
 - **[Apache Airflow](https://github.com/apache/airflow/pull/68847)** — sandboxed shell and file access for AI agents.
+- **[Apache Spark](https://github.com/apache/spark/commit/56da062b59f8ae58faa81554c76de49937d2d232)** — external UDF worker routing and lifecycle.
+- **[Omnigent](https://github.com/omnigent-ai/omnigent/pull/42)** — Islo sandbox provider and [runtime fixes](https://github.com/omnigent-ai/omnigent/pull/10058).
 - **[Bazel](https://github.com/bazelbuild/bazel/commit/d97111e4712b104c726fb66f7963434cb0457fcc)** — CI and review tooling.
 
 ## Selected projects
