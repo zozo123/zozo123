@@ -1,9 +1,12 @@
 # Yossi Eliaz
 
-**Principal Engineer, AI Systems · Incredibuild / islo.dev**
+**Engineering & Growth · Incredibuild / islo.dev**
 
-I build infrastructure for AI agents: sandboxes, workflow orchestration, and build systems.
-PhD in Physics. Software engineering lecturer. Currently running: [EASS Class X at HIT](https://eass-part-a-2026-x.github.io/lecture-notes/).
+AI, Genomics, Physics.
+
+At Incredibuild / islo.dev, I work on engineering and growth for AI infrastructure. My background spans Linux kernels, computational genomics, and machine learning for autonomous driving. I have a PhD in physics and teach software engineering at HIT.
+
+Currently teaching: [EASS Class X at HIT](https://eass-part-a-2026-x.github.io/lecture-notes/).
 
 ## Upstream contributions
 
