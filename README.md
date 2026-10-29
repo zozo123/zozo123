@@ -16,5 +16,10 @@ Currently teaching: [EASS Class X at HIT](https://eass-part-a-2026-x.github.io/l
 - **[Omnigent](https://github.com/omnigent-ai/omnigent/pull/42)** — Islo sandbox provider and [runtime fixes](https://github.com/omnigent-ai/omnigent/pull/10058).
 - **[Bazel](https://github.com/bazelbuild/bazel/commit/d97111e4712b104c726fb66f7963434cb0457fcc)** — CI and review tooling.
 
+## Building
+
+- **[ForgeFS](https://github.com/zozo123/forgefs)** — isolated workspaces for concurrent coding agents; conflicting work survives as a fork.
+- **[SWFactory](https://github.com/zozo123/ariflow-swfactory)** — GitHub issues to reviewed pull requests, with Airflow, coding agents, and human approval gates.
+- **[T2T comparison](https://zozo123.github.io/t2t-vs-grch38/)** — a chromosome-by-chromosome comparison of human reference genomes, with results and caveats.
 
 [Website](https://yossieliaz.netlify.app/) · [Writing](https://zozo123.github.io/) · [Research](https://yossieliaz.netlify.app/research/) · [LinkedIn](https://www.linkedin.com/in/yossi-eliaz/)
