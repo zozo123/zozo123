@@ -28,7 +28,6 @@ Currently teaching: [EASS Class X at HIT](https://eass-part-a-2026-x.github.io/l
 ## Talks, 2026
 
 - **Airflow Summit** — [Graphs of AI Coding: Orchestrating Agentic MapReduce with Airflow's New Sandboxes](https://airflowsummit.org/sessions/2026/graphs-of-ai-coding/)
-- **Nordic APIs Summit** — [MCP Is Not a Security Boundary](https://nordicapis.com/speakers/yossi-eliaz/)
 - **Zenity AI Agent Security Summit, NYC** — [Your Agent Escaped Without Escaping the Sandbox](https://github.com/zozo123/nyc-talk)
 - **Cambridge Systems Research Group** — [Forkable Sandboxes: The Runtime Layer for AI Software Factories](https://talks.cam.ac.uk/talk/index/273181/)
 
