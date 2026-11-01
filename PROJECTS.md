@@ -2,7 +2,7 @@
 
 **Inventory verified: November 1, 2026.** This is a curated navigation page, not a claim that every repository is a production application.
 
-GitHub inventory: **354 total repositories** (259 public, 95 private). Public repositories: **69 active original projects**, **16 active forks**, **11 archived originals**, **163 archived forks**.
+Public GitHub inventory: **259 public repositories** — **69 active original projects**, **16 active forks**, **11 archived originals**, and **163 archived forks**. Private repositories are deliberately excluded from this public index.
 
 ## Start here
 
