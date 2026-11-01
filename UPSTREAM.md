@@ -98,7 +98,7 @@
 - [#345: docs: add Slurm academic sandbox plan and adapter](https://github.com/openclaw/crabbox/pull/345)
 - [#346: docs: add Station profiles security roadmap](https://github.com/openclaw/crabbox/pull/346)
 - [#326: feat: add marketplace credits gateway skeleton](https://github.com/openclaw/crabbox/pull/326)
-- [#531: [codex\] add FastAPI Cloud service-control provider](https://github.com/openclaw/crabbox/pull/531)
+- [#531: \[codex\] add FastAPI Cloud service-control provider](https://github.com/openclaw/crabbox/pull/531)
 - [#428: Fix Islo provider default create payload](https://github.com/openclaw/crabbox/pull/428)
 - [#352: feat(cloudflare): advertise FeatureRunSession + return run-session handle](https://github.com/openclaw/crabbox/pull/352)
 - [#238: feat: add Windows Sandbox provider](https://github.com/openclaw/crabbox/pull/238)
@@ -111,7 +111,7 @@
 - [#226: Require evidence artifacts for run proofs](https://github.com/openclaw/crabbox/pull/226)
 - [#198: islo: align provider with current Islo API status/SSE contract](https://github.com/openclaw/crabbox/pull/198)
 - [#203: fix: restrict lease metadata writes](https://github.com/openclaw/crabbox/pull/203)
-- [#195: [codex\] docs: use reliable release badge](https://github.com/openclaw/crabbox/pull/195)
+- [#195: \[codex\] docs: use reliable release badge](https://github.com/openclaw/crabbox/pull/195)
 - [#192: feat: add apple-container local development provider](https://github.com/openclaw/crabbox/pull/192)
 - [#191: docs: scope README Release badge to push events](https://github.com/openclaw/crabbox/pull/191)
 - [#157: feat: add ASCII Box provider](https://github.com/openclaw/crabbox/pull/157)
@@ -166,7 +166,7 @@
 - [#7724: fix(snowflake): Exclude NEXTVAL/CURRVAL sequences from references.from checks](https://github.com/sqlfluff/sqlfluff/pull/7724)
 - [#7717: feat(starrocks): Add support for ARRAY, MAP, and STRUCT types](https://github.com/sqlfluff/sqlfluff/pull/7717)
 - [#7718: fix(snowflake): Support multiple statements in EXCEPTION WHEN handlers](https://github.com/sqlfluff/sqlfluff/pull/7718)
-- [#7694: [codex\] Fix DuckDB double-quoted struct keys](https://github.com/sqlfluff/sqlfluff/pull/7694)
+- [#7694: \[codex\] Fix DuckDB double-quoted struct keys](https://github.com/sqlfluff/sqlfluff/pull/7694)
 
 ### balena-os/balena-engine — 11 merged
 
@@ -201,7 +201,7 @@
 
 - [#10843: test(e2e): make the exported-base-url Databricks e2e hermetic (into #10069)](https://github.com/omnigent-ai/omnigent/pull/10843)
 - [#10058: fix(os-env): spawn the bwrap helper from a thread that outlives requests](https://github.com/omnigent-ai/omnigent/pull/10058)
-- [#42: [codex\] add islo sandbox provider](https://github.com/omnigent-ai/omnigent/pull/42)
+- [#42: \[codex\] add islo sandbox provider](https://github.com/omnigent-ai/omnigent/pull/42)
 
 ### balena-io-modules/network-manager — 2 merged
 
@@ -236,7 +236,7 @@
 
 ### fivetran/great_expectations — 1 merged
 
-- [#11920: [DOCS\] Fix typos in the Run a Validation Definition guide](https://github.com/fivetran/great_expectations/pull/11920)
+- [#11920: \[DOCS\] Fix typos in the Run a Validation Definition guide](https://github.com/fivetran/great_expectations/pull/11920)
 
 ### fredrikloch/hugo-uno — 1 merged
 
@@ -327,10 +327,10 @@ These are under upstream review and **not** included in the merged totals. [Live
 - **omnigent-ai/omnigent** — [#10845: fix(claude-sdk): exit non-zero when the apiKeyHelper mints no token](https://github.com/omnigent-ai/omnigent/pull/10845)
 - **omnigent-ai/omnigent** — [#9944: feat(cli): add omnigent speculate to race agents and keep verified code](https://github.com/omnigent-ai/omnigent/pull/9944)
 - **omnigent-ai/omnigent** — [#9873: Add Boat.dev managed sandbox provider](https://github.com/omnigent-ai/omnigent/pull/9873)
-- **apache/spark** — [#59231: [SPARK-59083\][UDF\] Run scalar external UDFs in a CPython worker](https://github.com/apache/spark/pull/59231)
+- **apache/spark** — [#59231: \[SPARK-59083\]\[UDF\] Run scalar external UDFs in a CPython worker](https://github.com/apache/spark/pull/59231)
 - **bazelbuild/bazel** — [#31993: Reuse a scratch buffer for Merkle tree directory digests under BlobPolicy.DISCARD](https://github.com/bazelbuild/bazel/pull/31993)
-- **apache/spark** — [#59230: [SPARK-57214\][UDF\] Ship the direct UDF dispatcher in a shaded runtime jar](https://github.com/apache/spark/pull/59230)
-- **apache/spark** — [#59232: [SPARK-55278\][UDF\] Document and test direct worker launcher commands](https://github.com/apache/spark/pull/59232)
+- **apache/spark** — [#59230: \[SPARK-57214\]\[UDF\] Ship the direct UDF dispatcher in a shaded runtime jar](https://github.com/apache/spark/pull/59230)
+- **apache/spark** — [#59232: \[SPARK-55278\]\[UDF\] Document and test direct worker launcher commands](https://github.com/apache/spark/pull/59232)
 - **Aiven-Open/transforms-for-apache-kafka-connect** — [#207: Add the Sandbox transformation with wasm and sbx runtimes](https://github.com/Aiven-Open/transforms-for-apache-kafka-connect/pull/207)
 - **gvago/incredibuild-qodo-demo** — [#5: Demo: CI as the control loop — Qodo × Islo × Incredibuild](https://github.com/gvago/incredibuild-qodo-demo/pull/5)
 
