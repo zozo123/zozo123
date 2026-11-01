@@ -1,38 +1,37 @@
 # Yossi Eliaz
 
-**Engineering & Growth · Incredibuild / islo.dev**
+**Principal Engineer, AI Systems · Incredibuild / [islo.dev](https://islo.dev/)**
 
-AI, Genomics, Physics.
+AI execution infrastructure · secure sandboxes · developer tooling · computational science
 
-At Incredibuild / islo.dev, I work on engineering and growth for AI infrastructure. My background spans Linux kernels, computational genomics, and machine learning for autonomous driving. I have a PhD in physics and teach software engineering at HIT.
+I build infrastructure for AI agents to execute code in isolated, reproducible environments: sandboxes, CI runners, snapshots, caching, and execution evidence. My background spans Linux and container security, autonomous-driving ML, and computational genomics. I have a PhD in physics and teach software engineering at HIT.
 
-Currently teaching: [EASS Class X at HIT](https://eass-part-a-2026-x.github.io/lecture-notes/).
+## Open-source contributions
 
-## Upstream contributions
+**[150 merged PRs](https://github.com/search?type=pullrequests&q=author%3Azozo123+is%3Apr+is%3Amerged+-user%3Azozo123+-user%3Aislo-labs+-user%3AIncredibuild-RND+-user%3AEASS-PART-A-2026-X+-user%3AEASS-HIT-PART-B+-user%3AEASS-HIT-PART-A-2024-CLASS-V+-user%3AQuBind)** across **33 external open-source repositories**, including **115 in 2026** (verified November 1, 2026).
 
-[150 merged pull requests](https://github.com/search?type=pullrequests&q=author%3Azozo123+is%3Apr+is%3Amerged+-user%3Azozo123+-user%3Aislo-labs+-user%3AIncredibuild-RND+-user%3AEASS-PART-A-2026-X+-user%3AEASS-HIT-PART-B+-user%3AEASS-HIT-PART-A-2024-CLASS-V+-user%3AQuBind) in 35 open-source repositories, 112 of them in 2026 (as of October 2026).
+- **Apache Airflow — [20 merged PRs](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged).** Built the [SandboxToolset](https://github.com/apache/airflow/pull/68847) for agent shell/file access and added [Islo](https://github.com/apache/airflow/pull/71672), [Boat](https://github.com/apache/airflow/pull/71725), [OpenSandbox](https://github.com/apache/airflow/pull/71676), and [OpenShell](https://github.com/apache/airflow/pull/73961) backends. Improved CI with [compressed image stashes](https://github.com/apache/airflow/pull/73997), [same-run snapshots](https://github.com/apache/airflow/pull/74173), and [dependency cache reuse](https://github.com/apache/airflow/pull/74466).
+- **[Crabbox](https://github.com/openclaw/crabbox) (OpenClaw) — [65 merged PRs](https://github.com/openclaw/crabbox/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged).** Sandbox provider integrations including E2B, Modal, RunPod, Google Cloud Run, Azure Dynamic Sessions, and Windows Sandbox; [lease heartbeat](https://github.com/openclaw/crabbox/pull/1707) for delegated providers.
+- **[Omnigent](https://github.com/omnigent-ai/omnigent/pull/42).** Islo sandbox provider and a [fix for sandbox helper processes being killed mid-request](https://github.com/omnigent-ai/omnigent/pull/10058).
+- **[Apache Spark](https://github.com/apache/spark/commit/56da062b59f8ae58faa81554c76de49937d2d232) & [Bazel](https://github.com/bazelbuild/bazel/commit/d97111e4712b104c726fb66f7963434cb0457fcc).** Spark-owned external-UDF worker dispatch instead of an arbitrary class hook; Bazel review pagination that fails closed when results are partial.
+- **Also merged:** [Zed](https://github.com/zed-industries/zed/pull/60968) (sccache reuse), [Nushell](https://github.com/nushell/nushell/pull/18999) (`par-each` deadlock), [Pydantic Monty](https://github.com/pydantic/monty/pull/147), [axios](https://github.com/axios/axios/pull/10806), [NetworkX](https://github.com/networkx/networkx/pull/5104), and [sqlfluff](https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged).
 
-- **[Crabbox](https://crabbox.sh/) (OpenClaw)** — [65 merged PRs](https://github.com/openclaw/crabbox/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged) since May 2026, including 18 sandbox providers (E2B, Modal, RunPod, Google Cloud Run, Azure Dynamic Sessions, Windows Sandbox and more) and a [lease heartbeat for delegated providers](https://github.com/openclaw/crabbox/pull/1707).
-- **Apache Airflow** — [17 merged PRs](https://github.com/apache/airflow/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged): the [SandboxToolset](https://github.com/apache/airflow/pull/68847) for sandboxed agent shell and file access, sandbox backends for [Islo](https://github.com/apache/airflow/pull/71672), [Boat](https://github.com/apache/airflow/pull/71725), [OpenSandbox](https://github.com/apache/airflow/pull/71676) and [OpenShell](https://github.com/apache/airflow/pull/73961), and CI speedups such as [zstd-compressed image stashes](https://github.com/apache/airflow/pull/73997).
-- **[Apache Spark](https://github.com/apache/spark/commit/56da062b59f8ae58faa81554c76de49937d2d232)** — external UDF dispatch routed through Spark-owned worker specifications instead of a user-supplied class hook (SPARK-59886).
-- **[Omnigent](https://github.com/omnigent-ai/omnigent/pull/42)** — Islo sandbox provider and a [fix for sandbox helpers killed mid-request](https://github.com/omnigent-ai/omnigent/pull/10058).
-- **[Bazel](https://github.com/bazelbuild/bazel/commit/d97111e4712b104c726fb66f7963434cb0457fcc)** — the Community Review Labeler now reads every page of a PR's reviews and fails closed on partial output.
-- **Also merged** — [Zed](https://github.com/zed-industries/zed/pull/60968) (sccache cache reuse across CI checkouts), [Nushell](https://github.com/nushell/nushell/pull/18999) (a `par-each` deadlock), [axios](https://github.com/axios/axios/pull/10806), [Pydantic Monty](https://github.com/pydantic/monty/pull/147), [NetworkX](https://github.com/networkx/networkx/pull/5104), and [13 PRs in sqlfluff](https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged).
+## Projects
 
-## Building
-
-- **[ForgeFS](https://github.com/zozo123/forgefs)** — isolated workspaces for concurrent coding agents; conflicting work survives as a fork.
-- **[SWFactory](https://github.com/zozo123/ariflow-swfactory)** — GitHub issues to reviewed pull requests, with Airflow, coding agents, and human approval gates.
-- **[T2T comparison](https://zozo123.github.io/t2t-vs-grch38/)** — a chromosome-by-chromosome comparison of human reference genomes, with results and caveats.
+- **[ForgeFS](https://github.com/zozo123/forgefs)** — pre-1.0 Rust content-addressed workspaces for concurrent coding agents. Snapshot-pinned sessions, read-dependency checks, and conflict-preserving forks; [v0.4.0 release](https://github.com/zozo123/forgefs/releases).
+- **[SWFactory](https://github.com/zozo123/ariflow-swfactory)** — alpha GitHub-issue-to-reviewed-PR workflow with Apache Airflow, coding agents, evidence, and human approval gates. Includes a [reproducible local replay](https://github.com/zozo123/ariflow-swfactory#quickstart) without model calls.
+- **[Meta-harness on Islo](https://github.com/zozo123/meta-harness-on-islo)** — runnable, deterministic five-task harness-optimization simulation and trace viewer; a teaching/demo harness, **not** a real-LLM benchmark or validated Islo integration.
+- **[T2T vs GRCh38](https://zozo123.github.io/t2t-vs-grch38/)** — chromosome-by-chromosome comparison of human reference-genome sequence composition, with source, methodology, and caveats.
 
 ## Talks, 2026
 
-- **Airflow Summit** — [Graphs of AI Coding: Orchestrating Agentic MapReduce with Airflow's New Sandboxes](https://airflowsummit.org/sessions/2026/graphs-of-ai-coding/)
-- **Zenity AI Agent Security Summit, NYC** — [Your Agent Escaped Without Escaping the Sandbox](https://github.com/zozo123/nyc-talk)
-- **Cambridge Systems Research Group** — [Forkable Sandboxes: The Runtime Layer for AI Software Factories](https://talks.cam.ac.uk/talk/index/273181/)
+- **Airflow Summit:** [Graphs of AI Coding: Orchestrating Agentic MapReduce with Airflow's New Sandboxes](https://airflowsummit.org/sessions/2026/graphs-of-ai-coding/)
+- **Cambridge Systems Research Group:** [Forkable Sandboxes: The Runtime Layer for AI Software Factories](https://talks.cam.ac.uk/talk/index/273181/)
+- **Zenity AI Agent Security Summit, NYC:** [Your Agent Escaped Without Escaping the Sandbox](https://github.com/zozo123/nyc-talk)
+- **LLMday NYC:** [The Sandbox Is the Agent Runtime: What Breaks When Execution Becomes Disposable](https://llmday.com/2026-nyc-q4/)
 
-## Research
+## Research & teaching
 
-Computational genomics at Baylor College of Medicine and Rice University, and cancer transcriptomics at Harvard Medical School, with papers in Nature Communications, PNAS and Physical Review E. h-index 11 and about 800 citations on [Google Scholar](https://scholar.google.com/citations?user=NL1ZyOgAAAAJ).
+Research in computational genomics, genome architecture, physical biology, and cancer transcriptomics at Baylor College of Medicine, Rice University, and Harvard Medical School. Publications include *Nature Communications*, *PNAS*, *Physical Review E*, and *iScience*. I teach [EASS Class X at HIT](https://eass-part-a-2026-x.github.io/lecture-notes/).
 
-[Website](https://yossieliaz.netlify.app/) · [CV (PDF)](https://yossieliaz.netlify.app/cv/Yossi-Eliaz-CV.pdf) · [Writing](https://zozo123.github.io/) · [Research](https://yossieliaz.netlify.app/research/) · [LinkedIn](https://www.linkedin.com/in/yossi-eliaz/)
+[Website](https://yossieliaz.netlify.app/) · [CV (PDF)](https://yossieliaz.netlify.app/cv/Yossi-Eliaz-CV.pdf) · [Writing](https://zozo123.github.io/) · [Research](https://yossieliaz.netlify.app/research/) · [Google Scholar](https://scholar.google.com/citations?user=NL1ZyOgAAAAJ) · [LinkedIn](https://www.linkedin.com/in/yossi-eliaz/)
