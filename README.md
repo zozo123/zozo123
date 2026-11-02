@@ -2,11 +2,13 @@
 
 **Principal Engineer, AI Systems · [Incredibuild](https://incredibuild.com/)**
 
+[incredibuild.com](https://incredibuild.com/) · [islo.dev](https://islo.dev/)
+
 *Secure agent execution · sandboxes and snapshots · CI/build performance · computational science*
 
 I work on execution infrastructure for AI coding and research agents: isolated environments, reusable snapshots, build and dependency caches, evidence, and recovery. Earlier work spans Linux/container systems, autonomous-driving ML, and computational genomics. I hold a PhD in physics and teach software engineering at HIT.
 
-## Open source, landed upstream
+## Open source contributions
 
 **[150 merged authored PRs](https://github.com/search?type=pullrequests&q=author%3Azozo123+is%3Apr+is%3Amerged+-user%3Azozo123+-user%3Aislo-labs+-user%3AIncredibuild-RND+-user%3AEASS-PART-A-2026-X+-user%3AEASS-HIT-PART-B+-user%3AEASS-HIT-PART-A-2024-CLASS-V+-user%3AQuBind)** across **33 external repositories**, **115 in 2026** (verified November 1, 2026). [Full upstream catalog, all PRs and open work](UPSTREAM.md).
 
@@ -16,7 +18,7 @@ I work on execution infrastructure for AI coding and research agents: isolated e
 - **Also upstream:** [SQLFluff (13)](https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged), [balena-engine (11)](https://github.com/balena-os/balena-engine/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged), [straw (5)](https://github.com/aidenlab/straw/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged), [Omnigent (3)](https://github.com/omnigent-ai/omnigent/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged), [Zed](https://github.com/zed-industries/zed/pull/60968), [Nushell](https://github.com/nushell/nushell/pull/18999), [Pydantic Monty](https://github.com/pydantic/monty/pull/147), and more.
 - **Author-attributed commits integrated through other PR flows:** [Apache Spark UDF worker dispatch](https://github.com/apache/spark/commit/56da062b59f8ae58faa81554c76de49937d2d232) and [Bazel review pagination/fail-closed logic](https://github.com/bazelbuild/bazel/commit/d97111e4712b104c726fb66f7963434cb0457fcc). These commits are **not** included in the authored-PR total above.
 
-## Building
+## Playing around
 
 - **[ForgeFS](https://github.com/zozo123/forgefs)** — pre-1.0 Rust content-addressed workspaces for concurrent agents. Snapshot-pinned sessions, read-dependency checks, conflict-preserving forks, and auditable release seals. [v0.4.0 released](https://github.com/zozo123/forgefs/releases); not POSIX/FUSE or a Git replacement.
 - **[SWFactory](https://github.com/zozo123/ariflow-swfactory)** — alpha Airflow + agents pipeline from GitHub issues to evidence-bearing, reviewed PRs with human gates. Includes a repeatable offline fixture replay; deployed end-to-end model integration is not claimed.
@@ -25,7 +27,7 @@ I work on execution infrastructure for AI coding and research agents: isolated e
 - **[Gemma System One](https://github.com/zozo123/gemma-to-jev)** — Rust/Candle local typed-decision inference prototype with measured hardware-specific results and a documented semantic-isolation caveat.
 - **[GULI-SET](https://github.com/zozo123/GULI-SET)** — synthetic, deterministic benchmark for distinguishing independent evidence from repeated claims; not yet an LLM evaluation result.
 
-## Scientific computing
+## Scientific computing experiments
 
 - **[Evidence-Aware MapReduce for Forkable Compute](https://arxiv.org/abs/2607.09689)** — 2026 preprint and [open implementation](https://github.com/zozo123/boltzmann-mapreduce) on lineage, evidence identity and statistical reduction.
 - **[Three-Body Orbit Atlas](https://github.com/zozo123/threebody-closing-the-open)** — numerical continuation and Floquet-stability research; in progress, with explicitly bounded completeness.
