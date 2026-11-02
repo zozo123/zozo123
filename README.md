@@ -1,6 +1,6 @@
 # Yossi Eliaz
 
-**Principal Engineer, AI Systems · Incredibuild / [islo.dev](https://islo.dev/)**
+**Principal Engineer, AI Systems · [Incredibuild](https://incredibuild.com/)**
 
 *Secure agent execution · sandboxes and snapshots · CI/build performance · computational science*
 
