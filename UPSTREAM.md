@@ -1,9 +1,9 @@
 # Upstream open-source contributions
 
-**Verified November 1, 2026** from the connected GitHub search results. These are authored pull requests **merged into other repositories**, excluding the personal account and a defined set of employer/teaching organizations; they are not a count of all submitted PRs or all commits.
+**Verified November 3, 2026** from the connected GitHub search results. These are authored pull requests **merged into other repositories**, excluding the personal account and a defined set of employer/teaching organizations; they are not a count of all submitted PRs or all commits.
 
-- **150 merged authored PRs** across **33 external repositories**; **115 merged in 2026**.
-- **17 open PRs** across external repositories at this snapshot; open work is not counted as merged.
+- **158 merged authored PRs** across **34 external repositories**; **123 merged in 2026**. This is 151 PRs found by the GitHub search plus 7 Bazel PRs that landed through Bazel's Copybara import, which closes a PR with a link to the landed commit instead of marking it merged.
+- **15 open PRs** across external repositories at this snapshot; open work is not counted as merged.
 - The author-PR search misses some authored commits integrated via maintainer-owned PRs or mirrors; important verified examples are documented below.
 
 ## Representative landed work
@@ -12,20 +12,21 @@
 - **OpenClaw Crabbox:** provider integrations, lifecycle and broker controls; representative [delegated lease heartbeat #1707](https://github.com/openclaw/crabbox/pull/1707), [OAuth/session identity binding #1158](https://github.com/openclaw/crabbox/pull/1158), [parallel shard cap #2935](https://github.com/openclaw/crabbox/pull/2935), and [Cloud Run provider #1160](https://github.com/openclaw/crabbox/pull/1160).
 - **OpenClaw core:** [SSRF/pinned-dispatch HTTP/2 mitigation #61777](https://github.com/openclaw/openclaw/pull/61777), [Docker apt-GPG key pinning #74254](https://github.com/openclaw/openclaw/pull/74254), [Slack thread-context fix #63840](https://github.com/openclaw/openclaw/pull/63840), and [Ollama provider base URL fix #61776](https://github.com/openclaw/openclaw/pull/61776).
 - **Omnigent:** [Islo provider #42](https://github.com/omnigent-ai/omnigent/pull/42), [bubblewrap helper lifetime fix #10058](https://github.com/omnigent-ai/omnigent/pull/10058), [hermetic Databricks e2e #10843](https://github.com/omnigent-ai/omnigent/pull/10843).
+- **Bazel:** [Merkle digest scratch buffer #31993](https://github.com/bazelbuild/bazel/pull/31993) for remote execution, [paginated, fail-closed review labeling #30359](https://github.com/bazelbuild/bazel/pull/30359), [locale-independent SSL monitor #30363](https://github.com/bazelbuild/bazel/pull/30363), and [reproducible distfile #30365](https://github.com/bazelbuild/bazel/pull/30365).
 - **SQLFluff:** [13 merged PRs](https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged) across Databricks, Snowflake, DuckDB, StarRocks, Greenplum, Oracle, and rules/CI behavior.
 - **Historical systems and genomics:** [balena-engine](https://github.com/balena-os/balena-engine/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged) Docker/runc and integration test work; [straw](https://github.com/aidenlab/straw/pulls?q=is%3Apr+author%3Azozo123+is%3Amerged) Python/MATLAB Hi-C interfaces and packaging.
 
-### Authored commits merged through a different PR flow
+### Authored commit merged through a different PR flow
 
 - **[Apache Spark](https://github.com/apache/spark/commit/56da062b59f8ae58faa81554c76de49937d2d232):** authored SPARK-59886 patch for Spark-controlled UDF worker dispatch, committed upstream by a maintainer. This is an authored landed commit, not a separately counted author-owned merged PR.
-- **[Bazel](https://github.com/bazelbuild/bazel/commit/d97111e4712b104c726fb66f7963434cb0457fcc):** authored fix for paginated PR review retrieval and fail-closed behavior, integrated through the upstream project workflow. Not separately counted in the 150 author-owned merged PRs.
 
-## All external repositories with merged authored PRs (33)
+## All external repositories with merged authored PRs (34)
 
 | Repository | Merged PRs |
 | --- | ---: |
 | [openclaw/crabbox](https://github.com/openclaw/crabbox/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 65 |
 | [apache/airflow](https://github.com/apache/airflow/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 20 |
+| [bazelbuild/bazel](#bazelbuildbazel--7-landed-via-copybara) | 7 |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 13 |
 | [balena-os/balena-engine](https://github.com/balena-os/balena-engine/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 11 |
 | [aidenlab/straw](https://github.com/aidenlab/straw/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 5 |
@@ -56,10 +57,10 @@
 | [twistlock/authz](https://github.com/twistlock/authz/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
 | [vitessio/vitess](https://github.com/vitessio/vitess/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
 | [withastro/flue](https://github.com/withastro/flue/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
-| [zed-industries/zed](https://github.com/zed-industries/zed/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
+| [zed-industries/zed](https://github.com/zed-industries/zed/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 2 |
 
 <details>
-<summary>All 150 merged pull requests, grouped by upstream repository</summary>
+<summary>All 158 merged pull requests, grouped by upstream repository</summary>
 
 ### openclaw/crabbox — 65 merged
 
@@ -151,6 +152,16 @@
 - [#73185: Run migration tests once per backend instead of in every core test shard](https://github.com/apache/airflow/pull/73185)
 - [#68847: Add SandboxToolset for sandboxed agent shell and file access](https://github.com/apache/airflow/pull/68847)
 - [#70096: Validate common AI tool-call arguments to enable pydantic-ai retries](https://github.com/apache/airflow/pull/70096)
+
+### bazelbuild/bazel — 7 landed via Copybara
+
+- [#31993: Reuse a scratch buffer for Merkle tree directory digests under BlobPolicy.DISCARD](https://github.com/bazelbuild/bazel/pull/31993) (landed as `a7c4e98`)
+- [#30359: Paginate PR reviews fetch in Community Review Labeler](https://github.com/bazelbuild/bazel/pull/30359) (landed as `d97111e`)
+- [#30363: Parse certificate notAfter locale-independently in SSL monitor](https://github.com/bazelbuild/bazel/pull/30363) (landed as `8fd0d51`)
+- [#30364: Ignore COMMENTED reviews when labeling community-reviewed PRs](https://github.com/bazelbuild/bazel/pull/30364) (landed as `0377200`)
+- [#30358: Skip SSL tracking-issue step on pull_request runs](https://github.com/bazelbuild/bazel/pull/30358) (landed as `1db045a`)
+- [#30360: Fix BAZEL_DOC_TRIGGER_TOKEN scope comment to name bazel-docs](https://github.com/bazelbuild/bazel/pull/30360) (landed as `2b30505`)
+- [#30365: Make bazel-distfile.tar reproducible and fail loudly on unknown inputs](https://github.com/bazelbuild/bazel/pull/30365) (landed as `f4f4888`)
 
 ### sqlfluff/sqlfluff — 13 merged
 
@@ -306,13 +317,14 @@
 
 - [#75: Add islo sandbox connector](https://github.com/withastro/flue/pull/75)
 
-### zed-industries/zed — 1 merged
+### zed-industries/zed — 2 merged
 
+- [#66360: remote: Accept shell-quoted ssh executable in SSH command lines](https://github.com/zed-industries/zed/pull/66360)
 - [#60968: Improve sccache cache reuse](https://github.com/zed-industries/zed/pull/60968)
 
 </details>
 
-## Open external pull requests at this snapshot (17)
+## Open external pull requests at this snapshot (15)
 
 These are under upstream review and **not** included in the merged totals. [Live GitHub search](https://github.com/pulls?q=author%3Azozo123+is%3Apr+is%3Aopen) may show a broader set, including repositories outside this page's exclusions.
 
@@ -322,13 +334,11 @@ These are under upstream review and **not** included in the merged totals. [Live
 - **omnigent-ai/omnigent** — [#12429: feat(sdk): make omnigent-client installable without the omnigent server](https://github.com/omnigent-ai/omnigent/pull/12429)
 - **openclaw/openclaw** — [#155442: feat(swarm): add bounded launch contract for exact candidate verification](https://github.com/openclaw/openclaw/pull/155442)
 - **apache/airflow** — [#76157: Add a resumable deferrable Databricks Genie operator](https://github.com/apache/airflow/pull/76157)
-- **zed-industries/zed** — [#66360: remote: Accept shell-quoted ssh executable in SSH command lines](https://github.com/zed-industries/zed/pull/66360)
 - **omnigent-ai/omnigent** — [#10716: fix(databricks): run the SDK token fallback with omnigent's interpreter](https://github.com/omnigent-ai/omnigent/pull/10716)
 - **omnigent-ai/omnigent** — [#10845: fix(claude-sdk): exit non-zero when the apiKeyHelper mints no token](https://github.com/omnigent-ai/omnigent/pull/10845)
 - **omnigent-ai/omnigent** — [#9944: feat(cli): add omnigent speculate to race agents and keep verified code](https://github.com/omnigent-ai/omnigent/pull/9944)
 - **omnigent-ai/omnigent** — [#9873: Add Boat.dev managed sandbox provider](https://github.com/omnigent-ai/omnigent/pull/9873)
 - **apache/spark** — [#59231: \[SPARK-59083\]\[UDF\] Run scalar external UDFs in a CPython worker](https://github.com/apache/spark/pull/59231)
-- **bazelbuild/bazel** — [#31993: Reuse a scratch buffer for Merkle tree directory digests under BlobPolicy.DISCARD](https://github.com/bazelbuild/bazel/pull/31993)
 - **apache/spark** — [#59230: \[SPARK-57214\]\[UDF\] Ship the direct UDF dispatcher in a shaded runtime jar](https://github.com/apache/spark/pull/59230)
 - **apache/spark** — [#59232: \[SPARK-55278\]\[UDF\] Document and test direct worker launcher commands](https://github.com/apache/spark/pull/59232)
 - **Aiven-Open/transforms-for-apache-kafka-connect** — [#207: Add the Sandbox transformation with wasm and sbx runtimes](https://github.com/Aiven-Open/transforms-for-apache-kafka-connect/pull/207)
