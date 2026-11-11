@@ -1,8 +1,8 @@
 # Public projects and repositories
 
-**Inventory verified: November 1, 2026.** This is a curated navigation page, not a claim that every repository is a production application.
+**Inventory verified: November 11, 2026.** This is a curated navigation page, not a claim that every repository is a production application.
 
-Public GitHub inventory: **259 public repositories** — **69 active original projects**, **16 active forks**, **11 archived originals**, and **163 archived forks**. Private repositories are deliberately excluded from this public index.
+Public GitHub inventory: **277 public repositories** — **70 active original projects**, **34 active forks**, **11 archived originals**, and **162 archived forks**. Private repositories are deliberately excluded from this public index.
 
 ## Start here
 
@@ -14,11 +14,11 @@ Public GitHub inventory: **259 public repositories** — **69 active original pr
 - **[Evidence-Aware MapReduce](https://github.com/zozo123/boltzmann-mapreduce)** — statistical reducer, traces and [arXiv paper](https://arxiv.org/abs/2607.09689).
 - **[T2T vs GRCh38](https://github.com/zozo123/t2t-vs-grch38)** and **[SuperFly](https://github.com/zozo123/fly-fruit-fly)** — computational-genomics and computational-neuroscience work.
 
-## All 69 active original public repositories
+## All 70 active original public repositories
 
 Items below are grouped by what they actually demonstrate. 'Prototype', 'simulation', 'proposal' and 'alpha' are meaningful limitations, not interchangeable with validated production integrations.
 
-### Tools, runtimes and integrations (11)
+### Tools, runtimes and integrations (12)
 
 - **[forgefs](https://github.com/zozo123/forgefs)** — Pre-1.0 Rust content-addressed workspaces; snapshot-pinned agent sessions, recorded reads and conflict-preserving forks. Released v0.4.0; not a POSIX filesystem.
 - **[ariflow-swfactory](https://github.com/zozo123/ariflow-swfactory)** — Alpha Airflow-orchestrated issue-to-reviewed-PR workflow with policy and human approval gates. Bundled local replay uses scripted fixtures, not live model calls.
@@ -31,6 +31,7 @@ Items below are grouped by what they actually demonstrate. 'Prototype', 'simulat
 - **[rust-rover-plugin-crabbox](https://github.com/zozo123/rust-rover-plugin-crabbox)** — MVP Kotlin RustRover plugin delegating Cargo builds and tests to the Crabbox CLI.
 - **[sandbox-transform-for-apache-kafka-connect](https://github.com/zozo123/sandbox-transform-for-apache-kafka-connect)** — Experimental Java/Kafka Connect transform guest layer using WebAssembly or Docker Sandboxes; not an Apache Kafka project.
 - **[eass-auto-grader](https://github.com/zozo123/eass-auto-grader)** — Instructor-facing FastAPI repository grader and similarity-review helper; similarity flags require human assessment.
+- **[zozoBrain](https://github.com/zozo123/zozoBrain)** — Python/NumPy CLI (v1.0.1) for a 2,499-parameter decision network that coding agents edit weight by weight; every load replays and verifies the edit history. Weights are written by hand, not trained, and it abstains where no preference is stated.
 
 ### Computational science, research and evaluations (10)
 
@@ -118,31 +119,49 @@ Items below are grouped by what they actually demonstrate. 'Prototype', 'simulat
 - [verilog_final_project](https://github.com/zozo123/verilog_final_project) (archived original)
 - [xor-fractal-fb0](https://github.com/zozo123/xor-fractal-fb0) (archived original)
 
-### Active forks (16)
+### Active forks (34)
 
 Forking a repository is not equivalent to authoring its upstream code. The merged contributions are tracked separately in [UPSTREAM.md](UPSTREAM.md).
 
 - [AlgorithmVisualizer](https://github.com/zozo123/AlgorithmVisualizer) (active fork)
+- [BehiSecc-awesome-claude-skills](https://github.com/zozo123/BehiSecc-awesome-claude-skills) (active fork)
+- [Chat2AnyLLM-awesome-repo-configs](https://github.com/zozo123/Chat2AnyLLM-awesome-repo-configs) (active fork)
+- [ComposioHQ-awesome-claude-skills](https://github.com/zozo123/ComposioHQ-awesome-claude-skills) (active fork)
 - [Craft](https://github.com/zozo123/Craft) (active fork)
+- [Ezeafk-awesome-agent-skills](https://github.com/zozo123/Ezeafk-awesome-agent-skills) (active fork)
+- [GetBindu-awesome-claude-code-and-skills](https://github.com/zozo123/GetBindu-awesome-claude-code-and-skills) (active fork)
+- [Nim](https://github.com/zozo123/Nim) (active fork)
 - [airflow](https://github.com/zozo123/airflow) (active fork)
+- [awesome-temporal](https://github.com/zozo123/awesome-temporal) (active fork)
 - [bazel](https://github.com/zozo123/bazel) (active fork)
 - [cargo](https://github.com/zozo123/cargo) (active fork)
+- [composio-community-awesome-codex-skills](https://github.com/zozo123/composio-community-awesome-codex-skills) (active fork)
 - [crabbox](https://github.com/zozo123/crabbox) (active fork)
+- [itgoyo-awesome-agent-skills](https://github.com/zozo123/itgoyo-awesome-agent-skills) (active fork)
+- [jamesmurdza-awesome-ai-devtools](https://github.com/zozo123/jamesmurdza-awesome-ai-devtools) (active fork)
+- [jghoman-awesome-apache-airflow](https://github.com/zozo123/jghoman-awesome-apache-airflow) (active fork)
+- [karanb192-awesome-claude-skills](https://github.com/zozo123/karanb192-awesome-claude-skills) (active fork)
+- [kodustech-awesome-agent-skills](https://github.com/zozo123/kodustech-awesome-agent-skills) (active fork)
 - [mecatl](https://github.com/zozo123/mecatl) (active fork)
 - [numpy](https://github.com/zozo123/numpy) (active fork)
+- [nushell](https://github.com/zozo123/nushell) (active fork)
 - [omarchy](https://github.com/zozo123/omarchy) (active fork)
 - [omnigent](https://github.com/zozo123/omnigent) (active fork)
 - [openclaw](https://github.com/zozo123/openclaw) (active fork)
 - [pydantic-ai](https://github.com/zozo123/pydantic-ai) (active fork)
+- [rakazo](https://github.com/zozo123/rakazo) (active fork)
+- [skillmatic-ai-awesome-agent-skills](https://github.com/zozo123/skillmatic-ai-awesome-agent-skills) (active fork)
 - [spark](https://github.com/zozo123/spark) (active fork)
+- [sun.day](https://github.com/zozo123/sun.day) (active fork)
 - [the-super-tiny-compiler](https://github.com/zozo123/the-super-tiny-compiler) (active fork)
 - [transforms-for-apache-kafka-connect](https://github.com/zozo123/transforms-for-apache-kafka-connect) (active fork)
+- [truefoundry-awesome-skills-registry](https://github.com/zozo123/truefoundry-awesome-skills-registry) (active fork)
 - [zed](https://github.com/zozo123/zed) (active fork)
 
 <details>
-<summary>All 163 archived public forks (expand)</summary>
+<summary>All 162 archived public forks (expand)</summary>
 
-These are preserved public forks, not 163 additional independently authored projects.
+These are preserved public forks, not 162 additional independently authored projects.
 
 - [AFINES](https://github.com/zozo123/AFINES)
 - [AgentENV-1](https://github.com/zozo123/AgentENV-1)
@@ -259,7 +278,6 @@ These are preserved public forks, not 163 additional independently authored proj
 - [netlify-example](https://github.com/zozo123/netlify-example)
 - [networkx](https://github.com/zozo123/networkx)
 - [node-capstone](https://github.com/zozo123/node-capstone)
-- [nushell](https://github.com/zozo123/nushell)
 - [nvidia-docker](https://github.com/zozo123/nvidia-docker)
 - [objectbox-java](https://github.com/zozo123/objectbox-java)
 - [odysseus](https://github.com/zozo123/odysseus)

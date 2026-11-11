@@ -35,7 +35,7 @@ I work on execution infrastructure for AI coding and research agents: isolated e
 - **[SuperFly](https://github.com/zozo123/fly-fruit-fly)** — connectome-informed RNN controller for simulated fruit-fly flight; research prototype.
 - **[T2T vs GRCh38](https://zozo123.github.io/t2t-vs-grch38/)** — reproducible chromosome-level sequence-composition comparisons, not functional CpG-island annotation.
 
-[Explore all 69 active original projects and all public forks/archives](PROJECTS.md).
+[Explore all 70 active original projects and all public forks/archives](PROJECTS.md).
 
 ## Talks, 2026
 
