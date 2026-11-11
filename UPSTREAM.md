@@ -1,9 +1,9 @@
 # Upstream open-source contributions
 
-**Verified November 3, 2026** from the connected GitHub search results. These are authored pull requests **merged into other repositories**, excluding the personal account and a defined set of employer/teaching organizations; they are not a count of all submitted PRs or all commits.
+**Verified November 11, 2026** from the connected GitHub search results. These are authored pull requests **merged into other repositories**, excluding the personal account and a defined set of employer/teaching organizations; they are not a count of all submitted PRs or all commits.
 
-- **158 merged authored PRs** across **34 external repositories**; **123 merged in 2026**. This is 151 PRs found by the GitHub search plus 7 Bazel PRs that landed through Bazel's Copybara import, which closes a PR with a link to the landed commit instead of marking it merged.
-- **15 open PRs** across external repositories at this snapshot; open work is not counted as merged.
+- **162 merged authored PRs** across **36 external repositories**; **127 merged in 2026**. This is 155 PRs found by the GitHub search plus 7 Bazel PRs that landed through Bazel's Copybara import, which closes a PR with a link to the landed commit instead of marking it merged.
+- **18 open PRs** across external repositories at this snapshot; open work is not counted as merged.
 - The author-PR search misses some authored commits integrated via maintainer-owned PRs or mirrors; important verified examples are documented below.
 
 ## Representative landed work
@@ -20,11 +20,11 @@
 
 - **[Apache Spark](https://github.com/apache/spark/commit/56da062b59f8ae58faa81554c76de49937d2d232):** authored SPARK-59886 patch for Spark-controlled UDF worker dispatch, committed upstream by a maintainer. This is an authored landed commit, not a separately counted author-owned merged PR.
 
-## All external repositories with merged authored PRs (34)
+## All external repositories with merged authored PRs (36)
 
 | Repository | Merged PRs |
 | --- | ---: |
-| [openclaw/crabbox](https://github.com/openclaw/crabbox/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 65 |
+| [openclaw/crabbox](https://github.com/openclaw/crabbox/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 66 |
 | [apache/airflow](https://github.com/apache/airflow/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 20 |
 | [bazelbuild/bazel](#bazelbuildbazel--7-landed-via-copybara) | 7 |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 13 |
@@ -34,10 +34,12 @@
 | [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 3 |
 | [balena-io-modules/network-manager](https://github.com/balena-io-modules/network-manager/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 2 |
 | [balena-os/balena-libnetwork](https://github.com/balena-os/balena-libnetwork/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 2 |
+| [elie222/rakazo](https://github.com/elie222/rakazo/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 2 |
 | [nushell/nushell](https://github.com/nushell/nushell/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 2 |
 | [axios/axios](https://github.com/axios/axios/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
 | [balena-os/balena-raspberrypi](https://github.com/balena-os/balena-raspberrypi/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
 | [balena-os/balena-supervisor](https://github.com/balena-os/balena-supervisor/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
+| [Chat2AnyLLM/awesome-repo-configs](https://github.com/Chat2AnyLLM/awesome-repo-configs/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
 | [davidliwei/awesome-CRISPR](https://github.com/davidliwei/awesome-CRISPR/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
 | [fredrikloch/hugo-uno](https://github.com/fredrikloch/hugo-uno/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 1 |
@@ -60,10 +62,11 @@
 | [zed-industries/zed](https://github.com/zed-industries/zed/pulls?q=is%3Apr%20author%3Azozo123%20is%3Amerged) | 2 |
 
 <details>
-<summary>All 158 merged pull requests, grouped by upstream repository</summary>
+<summary>All 162 merged pull requests, grouped by upstream repository</summary>
 
-### openclaw/crabbox — 65 merged
+### openclaw/crabbox — 66 merged
 
+- [#2992: docs: fix stale README facts and smooth the local quick start](https://github.com/openclaw/crabbox/pull/2992)
 - [#2935: feat(shard): cap parallel shards with --concurrency](https://github.com/openclaw/crabbox/pull/2935)
 - [#2303: provider(ascii-box): support the Boat rebrand end to end](https://github.com/openclaw/crabbox/pull/2303)
 - [#2292: fix(external): reclaim abandoned Windows slug reservation locks](https://github.com/openclaw/crabbox/pull/2292)
@@ -224,6 +227,11 @@
 - [#3: proxy: renamed docker-proxy to balena-proxy](https://github.com/balena-os/balena-libnetwork/pull/3)
 - [#2: Enabled remote to support network create -d](https://github.com/balena-os/balena-libnetwork/pull/2)
 
+### elie222/rakazo — 2 merged
+
+- [#3623: ci: cut install and build floor across PR jobs](https://github.com/elie222/rakazo/pull/3623)
+- [#3573: ci: start Web E2E with the first jobs and merge its reports without installing](https://github.com/elie222/rakazo/pull/3573)
+
 ### nushell/nushell — 2 merged
 
 - [#18999: Fix par-each deadlock when chaining same-size thread pools](https://github.com/nushell/nushell/pull/18999)
@@ -240,6 +248,10 @@
 ### balena-os/balena-supervisor — 1 merged
 
 - [#319: Makefile: removed the deprecated force flag](https://github.com/balena-os/balena-supervisor/pull/319)
+
+### Chat2AnyLLM/awesome-repo-configs — 1 merged
+
+- [#310: Add zozo123/ariflow-swfactory skill repo](https://github.com/Chat2AnyLLM/awesome-repo-configs/pull/310)
 
 ### davidliwei/awesome-CRISPR — 1 merged
 
@@ -324,12 +336,11 @@
 
 </details>
 
-## Open external pull requests at this snapshot (15)
+## Open external pull requests at this snapshot (18)
 
 These are under upstream review and **not** included in the merged totals. [Live GitHub search](https://github.com/pulls?q=author%3Azozo123+is%3Apr+is%3Aopen) may show a broader set, including repositories outside this page's exclusions.
 
 - **openclaw/openclaw** — [#155634: feat(provider): add Databricks Unity Gateway](https://github.com/openclaw/openclaw/pull/155634)
-- **openclaw/crabbox** — [#2992: docs: fix stale README facts and smooth the local quick start](https://github.com/openclaw/crabbox/pull/2992)
 - **apache/airflow** — [#76156: Databricks: add Delta table version producer for externally written tables (#74195)](https://github.com/apache/airflow/pull/76156)
 - **omnigent-ai/omnigent** — [#12429: feat(sdk): make omnigent-client installable without the omnigent server](https://github.com/omnigent-ai/omnigent/pull/12429)
 - **openclaw/openclaw** — [#155442: feat(swarm): add bounded launch contract for exact candidate verification](https://github.com/openclaw/openclaw/pull/155442)
@@ -341,8 +352,12 @@ These are under upstream review and **not** included in the merged totals. [Live
 - **apache/spark** — [#59231: \[SPARK-59083\]\[UDF\] Run scalar external UDFs in a CPython worker](https://github.com/apache/spark/pull/59231)
 - **apache/spark** — [#59230: \[SPARK-57214\]\[UDF\] Ship the direct UDF dispatcher in a shaded runtime jar](https://github.com/apache/spark/pull/59230)
 - **apache/spark** — [#59232: \[SPARK-55278\]\[UDF\] Document and test direct worker launcher commands](https://github.com/apache/spark/pull/59232)
-- **Aiven-Open/transforms-for-apache-kafka-connect** — [#207: Add the Sandbox transformation with wasm and sbx runtimes](https://github.com/Aiven-Open/transforms-for-apache-kafka-connect/pull/207)
-- **gvago/incredibuild-qodo-demo** — [#5: Demo: CI as the control loop — Qodo × Islo × Incredibuild](https://github.com/gvago/incredibuild-qodo-demo/pull/5)
+- **nushell/nushell** — [#19453: CI: run Fmt and Clippy in a parallel lint job](https://github.com/nushell/nushell/pull/19453)
+- **nushell/nushell** — [#19452: CI: cache dependency crates only, not workspace members](https://github.com/nushell/nushell/pull/19452)
+- **nushell/nushell** — [#19451: tests: shorten background job sleeps that stall macOS CI](https://github.com/nushell/nushell/pull/19451)
+- **nushell/nushell** — [#19450: tests: shorten idle waits that stall the CI Test step](https://github.com/nushell/nushell/pull/19450)
+- **nushell/nushell** — [#19445: CI: remove redundant checks before Clippy](https://github.com/nushell/nushell/pull/19445)
+- **nhuga/sun.day** — [#1: Fix modern Docker compatibility ❤️](https://github.com/nhuga/sun.day/pull/1)
 
 ## Counting convention
 
