@@ -2,7 +2,7 @@
 
 **Principal Engineer, AI Systems · [Incredibuild](https://incredibuild.com/)**
 
-[incredibuild.com](https://incredibuild.com/) · [islo.dev](https://islo.dev/)
+[incredibuild.com](https://incredibuild.com/) · [islo.dev](https://islo.dev/) · [zozo123.github.io](https://zozo123.github.io/)
 
 *Secure agent execution · sandboxes and snapshots · CI/build performance · computational science*
 
@@ -39,10 +39,13 @@ I work on execution infrastructure for AI coding and research agents: isolated e
 
 ## Talks, 2026
 
-- **[Airflow Summit](https://airflowsummit.org/sessions/2026/graphs-of-ai-coding/)** — Graphs of AI Coding: Orchestrating Agentic MapReduce with Airflow's New Sandboxes
+- **[Airflow Town Hall](https://zozo123.github.io/airflow-sandbox-townhall/)** — A Sandbox Provider for Apache Airflow ([recording](https://www.youtube.com/watch?v=cznc1tFYnMI))
+- **[Airflow Summit](https://airflowsummit.org/sessions/2026/graphs-of-ai-coding/)** — Graphs of AI Coding: Orchestrating Agentic MapReduce with Airflow's New Sandboxes ([recording](https://www.youtube.com/watch?v=54Cfk91HNp8), [slides](https://airflowsummit.org/slides/2026/graphs-of-ai-coding.pdf))
 - **[Cambridge Systems Research Group](https://www.cst.cam.ac.uk/seminars/list/273181)** — Forkable Sandboxes: The Runtime Layer for AI Software Factories
 - **[Zenity AI Agent Security Summit, NYC](https://github.com/zozo123/nyc-talk)** — Your Agent Escaped Without Escaping the Sandbox
 - **[LLMday NYC](https://llmday.com/2026-nyc-q4/)** — The Sandbox Is the Agent Runtime: What Breaks When Execution Becomes Disposable
+
+[All seven 2026 talks, with recordings and slides](https://zozo123.github.io/#talks).
 
 ## Research & teaching
 
